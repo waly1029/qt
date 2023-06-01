@@ -1,0 +1,21 @@
+# ninja log v5
+16	22	1685247994620384000	Game_FlipCoin.app/Contents/Resources/Coin0001.icns	c10cac5a114a104f
+0	11	0	CMakeFiles/clean.additional	3193b173f5eb57a3
+464	3129	1685419315759786721	CMakeFiles/Game_FlipCoin.dir/main.cpp.o	313bae89f2641548
+61	2343	1685414164841382222	CMakeFiles/Game_FlipCoin.dir/mypushbutton.cpp.o	534d236a29618d1e
+664	761	1685247995357486884	/Users/liu/Desktop/cpp/qt/build-Game_FlipCoin-arm_darwin_generic_mach_o_64bit-Debug/Game_FlipCoin_autogen/EWIEGA46WW/qrc_res.cpp	a94289335392355a
+1	167	1685429924673908946	build.ninja	e4bacc0134304062
+12	15	0	clean	e61e1f3fed21a521
+1136	1313	1685420235109287498	Game_FlipCoin.app/Contents/MacOS/Game_FlipCoin	44c0080e04fbdc10
+12	69	1685420233869223478	Game_FlipCoin_autogen/mocs_compilation.cpp	188bed211af0cd3e
+74	1136	1685420234926716541	CMakeFiles/Game_FlipCoin.dir/chooselevelscene.cpp.o	3438e5f160b4778d
+12	69	1685420233869223478	/Users/liu/Desktop/cpp/qt/build-Game_FlipCoin-arm_darwin_generic_mach_o_64bit-Debug/Game_FlipCoin_autogen/mocs_compilation.cpp	188bed211af0cd3e
+61	2253	1685414164726720297	CMakeFiles/Game_FlipCoin.dir/mycoin.cpp.o	705dff3352a02728
+12	69	1685420233869223478	/Users/liu/Desktop/cpp/qt/build-Game_FlipCoin-arm_darwin_generic_mach_o_64bit-Debug/Game_FlipCoin_autogen/timestamp	188bed211af0cd3e
+12	69	1685420233869223478	Game_FlipCoin_autogen/timestamp	188bed211af0cd3e
+87	1396	1685419886455182773	CMakeFiles/Game_FlipCoin.dir/playscene.cpp.o	fe6bfbb3f629cc57
+664	761	1685247995357486884	Game_FlipCoin_autogen/EWIEGA46WW/qrc_res.cpp	a94289335392355a
+464	3128	1685419315769924195	CMakeFiles/Game_FlipCoin.dir/Game_FlipCoin_autogen/mocs_compilation.cpp.o	ae409dc7b6ebdc12
+62	2720	1685414165223578014	CMakeFiles/Game_FlipCoin.dir/Game_FlipCoin_autogen/EWIEGA46WW/qrc_res.cpp.o	eb9f51e607f98202
+74	1135	1685420234926858824	CMakeFiles/Game_FlipCoin.dir/mainscene.cpp.o	9b0615ff2197ae4e
+62	2350	1685414164849954775	CMakeFiles/Game_FlipCoin.dir/dataconfig.cpp.o	a954e423af36302e

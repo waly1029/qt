@@ -1,0 +1,11 @@
+# ninja log v5
+1	404	1684985340235258748	test02_autogen/timestamp	91b43604da1800aa
+1	404	1684985340235258748	test02_autogen/mocs_compilation.cpp	91b43604da1800aa
+1	404	1684985340235258748	/Users/liu/Desktop/cpp/qt/build-test02-arm_darwin_generic_mach_o_64bit-Debug/test02_autogen/timestamp	91b43604da1800aa
+1	404	1684985340235258748	/Users/liu/Desktop/cpp/qt/build-test02-arm_darwin_generic_mach_o_64bit-Debug/test02_autogen/mocs_compilation.cpp	91b43604da1800aa
+405	1190	1684985341024875018	CMakeFiles/test02.dir/widget.cpp.o	98e62c504742b605
+404	1192	1684985341026080975	CMakeFiles/test02.dir/test02_autogen/mocs_compilation.cpp.o	9f83ba2f31ee470
+405	1193	1684985341024853309	CMakeFiles/test02.dir/main.cpp.o	3fc116a7f36f61ee
+1193	1367	1684985341202451164	test02.app/Contents/MacOS/test02	4453d51da319f1bb
+0	17	0	CMakeFiles/clean.additional	3193b173f5eb57a3
+17	22	0	clean	e61e1f3fed21a521

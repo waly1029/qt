@@ -1,0 +1,21 @@
+# ninja log v5
+14	55	1685011510696580006	03_QDialog_autogen/timestamp	eb04ee9b50a1d6a5
+1050	2800	1685007841550791608	CMakeFiles/03_QDialog.dir/main.cpp.o	dc270217a08209b0
+14	55	1685011510696580006	03_QDialog_autogen/mocs_compilation.cpp	eb04ee9b50a1d6a5
+14	55	1685011510696580006	/Users/liu/Desktop/cpp/qt/build-03_QDialog-arm_darwin_generic_mach_o_64bit-Debug/03_QDialog_autogen/mocs_compilation.cpp	eb04ee9b50a1d6a5
+60	1572	1685011512206401089	CMakeFiles/03_QDialog.dir/mainwindow.cpp.o	f103f0df1771e73e
+14	55	1685011510696580006	/Users/liu/Desktop/cpp/qt/build-03_QDialog-arm_darwin_generic_mach_o_64bit-Debug/03_QDialog_autogen/timestamp	eb04ee9b50a1d6a5
+1049	2804	1685007841550971905	CMakeFiles/03_QDialog.dir/03_QDialog_autogen/mocs_compilation.cpp.o	cffb8912a6a91828
+1572	1810	1685011512444185097	03_QDialog.app/Contents/MacOS/03_QDialog	197d457b905e86b5
+18	67	1685011594130644282	03_QDialog_autogen/timestamp	eb04ee9b50a1d6a5
+18	67	1685011594130644282	03_QDialog_autogen/mocs_compilation.cpp	eb04ee9b50a1d6a5
+18	67	1685011594130644282	/Users/liu/Desktop/cpp/qt/build-03_QDialog-arm_darwin_generic_mach_o_64bit-Debug/03_QDialog_autogen/timestamp	eb04ee9b50a1d6a5
+18	67	1685011594130644282	/Users/liu/Desktop/cpp/qt/build-03_QDialog-arm_darwin_generic_mach_o_64bit-Debug/03_QDialog_autogen/mocs_compilation.cpp	eb04ee9b50a1d6a5
+73	1835	1685011595889787253	CMakeFiles/03_QDialog.dir/mainwindow.cpp.o	f103f0df1771e73e
+1835	2083	1685011596142085477	03_QDialog.app/Contents/MacOS/03_QDialog	197d457b905e86b5
+27	96	1685011640338245951	03_QDialog_autogen/timestamp	eb04ee9b50a1d6a5
+27	96	1685011640338245951	03_QDialog_autogen/mocs_compilation.cpp	eb04ee9b50a1d6a5
+27	96	1685011640338245951	/Users/liu/Desktop/cpp/qt/build-03_QDialog-arm_darwin_generic_mach_o_64bit-Debug/03_QDialog_autogen/timestamp	eb04ee9b50a1d6a5
+27	96	1685011640338245951	/Users/liu/Desktop/cpp/qt/build-03_QDialog-arm_darwin_generic_mach_o_64bit-Debug/03_QDialog_autogen/mocs_compilation.cpp	eb04ee9b50a1d6a5
+103	2200	1685011642429483767	CMakeFiles/03_QDialog.dir/mainwindow.cpp.o	f103f0df1771e73e
+2200	2447	1685011642684609531	03_QDialog.app/Contents/MacOS/03_QDialog	197d457b905e86b5

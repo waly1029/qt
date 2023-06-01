@@ -1,0 +1,22 @@
+# ninja log v5
+751	2988	1685005722061423308	CMakeFiles/02_QtSource.dir/02_QtSource_autogen/mocs_compilation.cpp.o	87111d7c8d49e24b
+56	1360	1685006546893454062	CMakeFiles/02_QtSource.dir/mainwindow.cpp.o	27c7b541b3d9709f
+174	789	1685006864707255673	CMakeFiles/02_QtSource.dir/02_QtSource_autogen/EWIEGA46WW/qrc_res.cpp.o	1a32bceb1bc8a494
+42	95	1685006864018917774	/Users/liu/Desktop/cpp/qt/build-02_QtSource-arm_darwin_generic_mach_o_64bit-Debug/02_QtSource_autogen/timestamp	cda2512632d4095d
+42	95	1685006864018917774	/Users/liu/Desktop/cpp/qt/build-02_QtSource-arm_darwin_generic_mach_o_64bit-Debug/02_QtSource_autogen/mocs_compilation.cpp	cda2512632d4095d
+1	372	1685006961259288892	build.ninja	5e5f9b57c8c9da8
+1360	1564	1685006547100995704	02_QtSource.app/Contents/MacOS/02_QtSource	736bc61c3d8ddf1a
+42	95	1685006864018917774	02_QtSource_autogen/mocs_compilation.cpp	cda2512632d4095d
+102	173	1685006864095146894	02_QtSource_autogen/EWIEGA46WW/qrc_res.cpp	64591b02662c5809
+751	2980	1685005722039160515	CMakeFiles/02_QtSource.dir/main.cpp.o	4fc691d25cf45a2b
+42	95	1685006864018917774	02_QtSource_autogen/timestamp	cda2512632d4095d
+102	173	1685006864095146894	/Users/liu/Desktop/cpp/qt/build-02_QtSource-arm_darwin_generic_mach_o_64bit-Debug/02_QtSource_autogen/EWIEGA46WW/qrc_res.cpp	64591b02662c5809
+18	92	1685006971846737618	02_QtSource_autogen/timestamp	cda2512632d4095d
+18	92	1685006971846737618	02_QtSource_autogen/mocs_compilation.cpp	cda2512632d4095d
+18	92	1685006971846737618	/Users/liu/Desktop/cpp/qt/build-02_QtSource-arm_darwin_generic_mach_o_64bit-Debug/02_QtSource_autogen/timestamp	cda2512632d4095d
+18	92	1685006971846737618	/Users/liu/Desktop/cpp/qt/build-02_QtSource-arm_darwin_generic_mach_o_64bit-Debug/02_QtSource_autogen/mocs_compilation.cpp	cda2512632d4095d
+100	172	1685006971926275962	02_QtSource_autogen/EWIEGA46WW/qrc_res.cpp	64591b02662c5809
+100	172	1685006971926275962	/Users/liu/Desktop/cpp/qt/build-02_QtSource-arm_darwin_generic_mach_o_64bit-Debug/02_QtSource_autogen/EWIEGA46WW/qrc_res.cpp	64591b02662c5809
+173	485	1685006972236192276	CMakeFiles/02_QtSource.dir/02_QtSource_autogen/EWIEGA46WW/qrc_res.cpp.o	1a32bceb1bc8a494
+172	1676	1685006973419750258	CMakeFiles/02_QtSource.dir/mainwindow.cpp.o	27c7b541b3d9709f
+1676	2148	1685006973899187230	02_QtSource.app/Contents/MacOS/02_QtSource	ca05dffe810d608d

@@ -1,0 +1,9 @@
+/Users/liu/Desktop/cpp/qt/build-Game_FlipCoin-arm_darwin_generic_mach_o_64bit-Release/CMakeFiles/Game_FlipCoin.dir
+/Users/liu/Desktop/cpp/qt/build-Game_FlipCoin-arm_darwin_generic_mach_o_64bit-Release/CMakeFiles/edit_cache.dir
+/Users/liu/Desktop/cpp/qt/build-Game_FlipCoin-arm_darwin_generic_mach_o_64bit-Release/CMakeFiles/rebuild_cache.dir
+/Users/liu/Desktop/cpp/qt/build-Game_FlipCoin-arm_darwin_generic_mach_o_64bit-Release/CMakeFiles/list_install_components.dir
+/Users/liu/Desktop/cpp/qt/build-Game_FlipCoin-arm_darwin_generic_mach_o_64bit-Release/CMakeFiles/install.dir
+/Users/liu/Desktop/cpp/qt/build-Game_FlipCoin-arm_darwin_generic_mach_o_64bit-Release/CMakeFiles/install/local.dir
+/Users/liu/Desktop/cpp/qt/build-Game_FlipCoin-arm_darwin_generic_mach_o_64bit-Release/CMakeFiles/install/strip.dir
+/Users/liu/Desktop/cpp/qt/build-Game_FlipCoin-arm_darwin_generic_mach_o_64bit-Release/CMakeFiles/Game_FlipCoin_autogen_timestamp_deps.dir
+/Users/liu/Desktop/cpp/qt/build-Game_FlipCoin-arm_darwin_generic_mach_o_64bit-Release/CMakeFiles/Game_FlipCoin_autogen.dir

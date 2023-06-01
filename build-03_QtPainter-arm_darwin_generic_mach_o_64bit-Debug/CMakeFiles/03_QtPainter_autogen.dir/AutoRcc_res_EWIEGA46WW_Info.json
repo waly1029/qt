@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "/Users/liu/Desktop/cpp/qt/build-03_QtPainter-arm_darwin_generic_mach_o_64bit-Debug/03_QtPainter_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/liu/Desktop/cpp/qt/build-03_QtPainter-arm_darwin_generic_mach_o_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/liu/Desktop/cpp/qt/build-03_QtPainter-arm_darwin_generic_mach_o_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/liu/Desktop/cpp/qt/03_QtPainter",
+	"CMAKE_SOURCE_DIR" : "/Users/liu/Desktop/cpp/qt/03_QtPainter",
+	"INCLUDE_DIR" : "/Users/liu/Desktop/cpp/qt/build-03_QtPainter-arm_darwin_generic_mach_o_64bit-Debug/03_QtPainter_autogen/include",
+	"INPUTS" : 
+	[
+		"/Users/liu/Desktop/cpp/qt/03_QtPainter/love_protection_custody_concern_humanity_care_icon.ico"
+	],
+	"LOCK_FILE" : "/Users/liu/Desktop/cpp/qt/build-03_QtPainter-arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/03_QtPainter_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "/Users/liu/Qt/6.5.1/macos/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/liu/Desktop/cpp/qt/build-03_QtPainter-arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/03_QtPainter_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Users/liu/Desktop/cpp/qt/03_QtPainter/res.qrc",
+	"VERBOSITY" : 0
+}

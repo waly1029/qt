@@ -1,0 +1,22 @@
+# ninja log v5
+482	1822	1684986545320223928	CMakeFiles/test01.dir/mypushbutton.cpp.o	463f7fc8d87c62fc
+116	1682	1684988667544971918	CMakeFiles/test01.dir/myfirstqt.cpp.o	7257b251dca1595b
+1682	1893	1684988667761904433	test01.app/Contents/MacOS/test01	5fe317098477ac1f
+50	635	1684984558435555847	CMakeFiles/test01.dir/main.cpp.o	38f2f62a8cf8cf5c
+482	1822	1684986545318640253	CMakeFiles/test01.dir/test01_autogen/mocs_compilation.cpp.o	94fcca96d5474ab
+16	101	1684988665973662916	/Users/liu/Desktop/cpp/qt/build-test01-arm_darwin_generic_mach_o_64bit-Debug/test01_autogen/mocs_compilation.cpp	f992ca7c4e705069
+16	101	1684988665973662916	test01_autogen/mocs_compilation.cpp	f992ca7c4e705069
+29	227	1684985869611458546	build.ninja	bfc97e47e79dc20b
+16	101	1684988665973662916	/Users/liu/Desktop/cpp/qt/build-test01-arm_darwin_generic_mach_o_64bit-Debug/test01_autogen/timestamp	f992ca7c4e705069
+16	101	1684988665973662916	test01_autogen/timestamp	f992ca7c4e705069
+1	20	0	/Users/liu/Desktop/cpp/qt/build-test01-arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/cmake.verify_globs	9198f03891d350f9
+2	16	0	/Users/liu/Desktop/cpp/qt/build-test01-arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/cmake.verify_globs	9198f03891d350f9
+1	25	0	/Users/liu/Desktop/cpp/qt/build-test01-arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/cmake.verify_globs	9198f03891d350f9
+18	80	1684988695712054074	test01_autogen/timestamp	f992ca7c4e705069
+18	80	1684988695712054074	test01_autogen/mocs_compilation.cpp	f992ca7c4e705069
+18	80	1684988695712054074	/Users/liu/Desktop/cpp/qt/build-test01-arm_darwin_generic_mach_o_64bit-Debug/test01_autogen/timestamp	f992ca7c4e705069
+18	80	1684988695712054074	/Users/liu/Desktop/cpp/qt/build-test01-arm_darwin_generic_mach_o_64bit-Debug/test01_autogen/mocs_compilation.cpp	f992ca7c4e705069
+90	1582	1684988697204677572	CMakeFiles/test01.dir/myfirstqt.cpp.o	7257b251dca1595b
+1582	1808	1684988697438005276	test01.app/Contents/MacOS/test01	5fe317098477ac1f
+1	16	0	/Users/liu/Desktop/cpp/qt/build-test01-arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/cmake.verify_globs	9198f03891d350f9
+1	17	0	/Users/liu/Desktop/cpp/qt/build-test01-arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/cmake.verify_globs	9198f03891d350f9

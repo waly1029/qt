@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-458c4758ac7bd463fd69.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "02_QtEvent",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "02_QtEvent::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02_QtEvent-Debug-81a73a176b32c1834d14.json",
+					"name" : "02_QtEvent",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02_QtEvent_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02_QtEvent_autogen-Debug-59df660245c247cb8c39.json",
+					"name" : "02_QtEvent_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02_QtEvent_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02_QtEvent_autogen_timestamp_deps-Debug-67bf86569a233d62c0cc.json",
+					"name" : "02_QtEvent_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/liu/Desktop/cpp/qt/build-02_QtEvent-arm_darwin_generic_mach_o_64bit-Debug",
+		"source" : "/Users/liu/Desktop/cpp/qt/02_QtEvent"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

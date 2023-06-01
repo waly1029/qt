@@ -1,0 +1,20 @@
+# ninja log v5
+100	2141	1685105390416851045	CMakeFiles/02_QtEvent.dir/widget.cpp.o	3178352d810e0830
+562	2095	1685105105444531511	CMakeFiles/02_QtEvent.dir/main.cpp.o	c71767784c423cc4
+29	93	1685105388378043850	/Users/liu/Desktop/cpp/qt/build-02_QtEvent-arm_darwin_generic_mach_o_64bit-Debug/02_QtEvent_autogen/timestamp	d22f8741108d9f51
+2142	2413	1685105390695842506	02_QtEvent.app/Contents/MacOS/02_QtEvent	e9fdbdf9e2d55704
+29	93	1685105388378043850	02_QtEvent_autogen/mocs_compilation.cpp	d22f8741108d9f51
+562	2134	1685105105496420312	CMakeFiles/02_QtEvent.dir/02_QtEvent_autogen/mocs_compilation.cpp.o	96fdb174b47ac6e6
+29	93	1685105388378043850	/Users/liu/Desktop/cpp/qt/build-02_QtEvent-arm_darwin_generic_mach_o_64bit-Debug/02_QtEvent_autogen/mocs_compilation.cpp	d22f8741108d9f51
+29	93	1685105388378043850	02_QtEvent_autogen/timestamp	d22f8741108d9f51
+581	2478	1685105083524978590	CMakeFiles/02_QtEvent.dir/mylabel.cpp.o	b81e800666ab7b10
+0	10	0	CMakeFiles/clean.additional	3193b173f5eb57a3
+10	17	0	clean	e61e1f3fed21a521
+18	81	1685105398988050107	02_QtEvent_autogen/timestamp	d22f8741108d9f51
+18	81	1685105398988050107	02_QtEvent_autogen/mocs_compilation.cpp	d22f8741108d9f51
+18	81	1685105398988050107	/Users/liu/Desktop/cpp/qt/build-02_QtEvent-arm_darwin_generic_mach_o_64bit-Debug/02_QtEvent_autogen/timestamp	d22f8741108d9f51
+18	81	1685105398988050107	/Users/liu/Desktop/cpp/qt/build-02_QtEvent-arm_darwin_generic_mach_o_64bit-Debug/02_QtEvent_autogen/mocs_compilation.cpp	d22f8741108d9f51
+94	1850	1685105400746904185	CMakeFiles/02_QtEvent.dir/widget.cpp.o	3178352d810e0830
+1851	2136	1685105401038473173	02_QtEvent.app/Contents/MacOS/02_QtEvent	e9fdbdf9e2d55704
+0	11	0	CMakeFiles/clean.additional	3193b173f5eb57a3
+11	16	0	clean	e61e1f3fed21a521
